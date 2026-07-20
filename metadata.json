@@ -1,0 +1,6 @@
+{
+  "name": "Tipificador Call Center Bonvivir",
+  "description": "Sistema inteligente y dinámico de tipificación de consultas, reclamos y solicitudes para asesores de call center, con copiloto de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
